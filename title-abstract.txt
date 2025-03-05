@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+LLM-Driven Descriptive Analysis of Metaphase Cell Images Containing ecDNA
 
 Abstract:
 <MY SUPER AWESOME PROJECT ABSTRACT>
